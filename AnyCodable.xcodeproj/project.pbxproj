@@ -58,7 +58,7 @@
 		OBJ_16 /* AnyEncodableTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnyEncodableTests.swift; sourceTree = "<group>"; };
 		OBJ_20 /* AnyCodable.xcworkspace */ = {isa = PBXFileReference; lastKnownFileType = wrapper.workspace; path = AnyCodable.xcworkspace; sourceTree = SOURCE_ROOT; };
 		OBJ_21 /* LICENSE.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = LICENSE.md; sourceTree = "<group>"; };
-		OBJ_22 /* AnyCodable-FlightSchool.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; path = "AnyCodable-FlightSchool.podspec"; sourceTree = "<group>"; };
+		OBJ_22 /* AnyCodable-Konfig.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; path = "AnyCodable-Konfig.podspec"; sourceTree = "<group>"; };
 		OBJ_23 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		OBJ_24 /* AnyCodable.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = AnyCodable.xcconfig; sourceTree = "<group>"; };
 		OBJ_6 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
@@ -121,7 +121,7 @@
 				OBJ_17 /* Products */,
 				OBJ_20 /* AnyCodable.xcworkspace */,
 				OBJ_21 /* LICENSE.md */,
-				OBJ_22 /* AnyCodable-FlightSchool.podspec */,
+				OBJ_22 /* AnyCodable-Konfig.podspec */,
 				OBJ_23 /* README.md */,
 				OBJ_24 /* AnyCodable.xcconfig */,
 			);

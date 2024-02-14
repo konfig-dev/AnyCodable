@@ -40,7 +40,7 @@ You can install `AnyCodable` via CocoaPods
 by adding the following line to your `Podfile`:
 
 ```ruby
-pod 'AnyCodable-FlightSchool', '~> 0.6.0'
+pod 'AnyCodable-Konfig', '~> 0.6.0'
 ```
 
 Run the `pod install` command to download the library
@@ -50,7 +50,7 @@ and integrate it into your Xcode project.
 > The module name for this library is "AnyCodable" ---
 > that is, to use it, you add `import AnyCodable` to the top of your Swift code
 > just as you would by any other installation method.
-> The pod is called "AnyCodable-FlightSchool"
+> The pod is called "AnyCodable-Konfig"
 > because there's an existing pod with the name "AnyCodable".
 
 ### Carthage
@@ -128,11 +128,11 @@ Mattt ([@mattt](https://twitter.com/mattt))
 [build status]: https://github.com/Flight-School/AnyCodable/actions?query=workflow%3ACI
 [build status badge]: https://github.com/Flight-School/AnyCodable/workflows/CI/badge.svg
 [license]: https://opensource.org/licenses/MIT
-[license badge]: https://img.shields.io/cocoapods/l/AnyCodable-FlightSchool.svg
+[license badge]: https://img.shields.io/cocoapods/l/AnyCodable-Konfig.svg
 [swift version]: https://swift.org/download/
 [swift version badge]: https://img.shields.io/badge/swift%20version-5.1+-orange.svg
-[cocoapods platforms badge]: https://img.shields.io/cocoapods/p/AnyCodable-FlightSchool.svg
-[cocoapods]: https://cocoapods.org/pods/AnyCodable-FlightSchool
-[cocoapods badge]: https://img.shields.io/cocoapods/v/AnyCodable-FlightSchool.svg
+[cocoapods platforms badge]: https://img.shields.io/cocoapods/p/AnyCodable-Konfig.svg
+[cocoapods]: https://cocoapods.org/pods/AnyCodable-Konfig
+[cocoapods badge]: https://img.shields.io/cocoapods/v/AnyCodable-Konfig.svg
 [carthage]: https://github.com/Carthage/Carthage
 [carthage badge]: https://img.shields.io/badge/Carthage-compatible-4BC51D.svg

@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = 'AnyCodable-FlightSchool'
+  s.name         = 'AnyCodable-Konfig'
   s.module_name  = 'AnyCodable'
   s.version      = '0.6.7'
   s.summary      = 'Type-erased wrappers for Encodable, Decodable, and Codable values.'
@@ -18,9 +18,9 @@ Pod::Spec.new do |s|
 
   s.framework = 'Foundation'
 
-  s.ios.deployment_target = '9.0'
-  s.osx.deployment_target = '10.10'
-  s.watchos.deployment_target = '2.0'
+  s.ios.deployment_target = '13.0'
+  s.osx.deployment_target = '13.0'
+  s.watchos.deployment_target = '4.0'
   s.tvos.deployment_target = '9.0'
 
   s.source = { git: 'https://github.com/Flight-School/AnyCodable.git', tag: s.version.to_s }
