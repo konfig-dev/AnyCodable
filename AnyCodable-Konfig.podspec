@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name         = 'AnyCodable-Konfig'
   s.module_name  = 'AnyCodable'
-  s.version      = '0.6.8'
+  s.version      = '0.6.9'
   s.summary      = 'Type-erased wrappers for Encodable, Decodable, and Codable values.'
 
   s.description  = <<-DESC
